@@ -1,0 +1,4 @@
+﻿  GameManager.cpp
+C:\Users\Mohamed\Documents\Mini Terminal Game\Mini Terminal Game\Mini Terminal Game\GameManager.cpp(103,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mohamed\Documents\Mini Terminal Game\Mini Terminal Game\Mini Terminal Game\GameManager.cpp(159,21): warning C4018: '<': signed/unsigned mismatch
+  Mini Terminal Game.vcxproj -> C:\Users\Mohamed\Documents\Mini Terminal Game\Mini Terminal Game\Debug\Mini Terminal Game.exe
